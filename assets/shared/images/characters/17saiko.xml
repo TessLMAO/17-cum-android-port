@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="17saiko.png">
+<SubTexture name="17saiko idle0000" x="2550" y="1846" width="913" height="1820" frameX="-581" frameY="-80" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko idle0001" x="4376" y="0" width="892" height="1815" frameX="-594" frameY="-85" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko idle0002" x="817" y="1846" width="888" height="1827" frameX="-599" frameY="-73" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko idle0003" x="2663" y="0" width="896" height="1841" frameX="-595" frameY="-59" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko idle0004" x="0" y="0" width="900" height="1846" frameX="-592" frameY="-54" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko right0000" x="3559" y="0" width="817" height="1835" frameX="-620" frameY="-65" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko right0001" x="0" y="1846" width="817" height="1829" frameX="-618" frameY="-71" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko lleft0000" x="1705" y="1846" width="845" height="1821" frameX="-550" frameY="-79" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko lleft0001" x="3463" y="1846" width="833" height="1819" frameX="-568" frameY="-81" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko up0000" x="900" y="0" width="874" height="1842" frameX="-590" frameY="-58" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko up0001" x="1774" y="0" width="889" height="1842" frameX="-587" frameY="-58" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko down0000" x="0" y="3675" width="950" height="1755" frameX="-580" frameY="-151" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17saiko down0001" x="5268" y="0" width="928" height="1768" frameX="-592" frameY="-140" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>

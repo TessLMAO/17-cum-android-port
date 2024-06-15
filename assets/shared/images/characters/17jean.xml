@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="17jean.png">
+<SubTexture name="17jean idle0000" x="2485" y="1779" width="932" height="1696" frameX="-527" frameY="-202" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean idle0001" x="1598" y="1779" width="887" height="1698" frameX="-559" frameY="-200" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean idle0002" x="3432" y="0" width="872" height="1713" frameX="-569" frameY="-185" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean idle0003" x="1661" y="0" width="884" height="1718" frameX="-561" frameY="-180" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean idle0004" x="2545" y="0" width="887" height="1718" frameX="-559" frameY="-180" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean right0000" x="0" y="3488" width="918" height="1684" frameX="-599" frameY="-215" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean right0001" x="4304" y="0" width="917" height="1694" frameX="-597" frameY="-205" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean left0000" x="0" y="1779" width="798" height="1709" frameX="-538" frameY="-190" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean left0001" x="798" y="1779" width="800" height="1708" frameX="-554" frameY="-191" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean up0000" x="0" y="0" width="827" height="1779" frameX="-569" frameY="-120" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean up0001" x="827" y="0" width="834" height="1769" frameX="-561" frameY="-130" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean down0000" x="1854" y="3488" width="977" height="1558" frameX="-538" frameY="-341" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="17jean down0001" x="918" y="3488" width="936" height="1582" frameX="-563" frameY="-317" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>
