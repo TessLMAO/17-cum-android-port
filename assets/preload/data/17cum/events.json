@@ -1,0 +1,601 @@
+{
+	"song": {
+		"events": [
+			[
+				13200,
+				[
+					[
+						"Camera Follow Pos",
+						"630",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				35600,
+				[
+					[
+						"Camera Follow Pos",
+						"750",
+						"500"
+					],
+					[
+						"troca_zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"370"
+					],
+					[
+						"troca_zoom",
+						"0.8",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				38800,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				40400,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					],
+					[
+						"Camera Follow Pos",
+						"500",
+						"370"
+					]
+				]
+			],
+			[
+				41200,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				43600,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"troca_zoom",
+						"0.7",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"troca_zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Camera Follow Pos",
+						"750",
+						"500"
+					],
+					[
+						"troca_zoom",
+						"0.6",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				52788.2352941176,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					],
+					[
+						"troca_zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				54023.5294117647,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56847.0588235294,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				58258.8235294117,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59670.5882352941,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				61258.8235294117,
+				[
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				62670.5882352941,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				64082.3529411764,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65317.6470588235,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75376.4705882352,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					]
+				]
+			],
+			[
+				81023.5294117646,
+				[
+					[
+						"Camera Follow Pos",
+						"630",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				83847.0588235293,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				85788.2352941176,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, "
+					]
+				]
+			],
+			[
+				86317.6470588235,
+				[
+					[
+						"Camera Follow Pos",
+						"630",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				86670.588235294,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					]
+				]
+			],
+			[
+				92317.6470588234,
+				[
+					[
+						"Camera Follow Pos",
+						"630",
+						"370"
+					]
+				]
+			],
+			[
+				96552.9411764705,
+				[
+					[
+						"Camera Follow Pos",
+						"330",
+						"550"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17jean",
+						"hex, ff5daa"
+					]
+				]
+			],
+			[
+				97964.7058823528,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				103635.294117647,
+				[
+					[
+						"Camera Follow Pos",
+						"630",
+						"370"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.50"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				110035.294117647,
+				[
+					[
+						"Camera Follow Pos",
+						"920",
+						"610"
+					]
+				]
+			],
+			[
+				111435.294117647,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116435.294117647,
+				[
+					[
+						"troca_zoom",
+						"0.6",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			],
+			[
+				122835.294117647,
+				[
+					[
+						"troca_zoom",
+						"0.7",
+						""
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17saiko",
+						"hex, 734ed4"
+					]
+				]
+			],
+			[
+				129235.294117647,
+				[
+					[
+						"troca_zoom",
+						"0.6",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"750",
+						"500"
+					],
+					[
+						"Change_Icon",
+						"dad, icon-17vito",
+						"hex, e63e57"
+					]
+				]
+			]
+		]
+	}
+}
